@@ -8,3 +8,7 @@ Materials provided/created for various data science programs/certificates.
 ## DataCamp Data Science Career Track with R
 
 1. https://www.datacamp.com/courses/free-introduction-to-r [Intro to R]
+
+## Tableau
+
+1. https://www.tableau.com/learn/training [Tableau Online Training]
